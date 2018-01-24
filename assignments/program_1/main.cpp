@@ -1,3 +1,15 @@
+///////////////////////////////////////////////////////////////////////////////
+//                   
+// Title:            Ordered linked list
+// Files:            main.cpp
+// Semester:         Advanced Algorithm, Spring 2018
+//
+// Author:           Richard Oliver
+// Email:            richardallenoliver@yahoo.com
+// Description:
+// This program orders in a link list a randomly generated set of numbers
+/////////////////////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <ctime>
 
